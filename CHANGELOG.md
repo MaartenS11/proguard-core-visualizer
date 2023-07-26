@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.2.0](https://github.com/Mouwrice/proguard-core-visualizer/compare/v0.1.1...v0.2.0) (2023-07-26)
+
+
+### Features
+
+* auto focus ([#46](https://github.com/Mouwrice/proguard-core-visualizer/issues/46)) ([2f27b32](https://github.com/Mouwrice/proguard-core-visualizer/commit/2f27b3208a51fdf4ca606fa9e00fa68c8c0863a5))
+* display catch blocks when evaluated ([#37](https://github.com/Mouwrice/proguard-core-visualizer/issues/37)) ([2b9d770](https://github.com/Mouwrice/proguard-core-visualizer/commit/2b9d770d51eaa699eda8cb588f9e70c55ffb5251))
+* method picker ([#43](https://github.com/Mouwrice/proguard-core-visualizer/issues/43)) ([9ed5ebe](https://github.com/Mouwrice/proguard-core-visualizer/commit/9ed5ebe19154cf0f0f81627181e296a71092366a))
+* scrollbars ([#41](https://github.com/Mouwrice/proguard-core-visualizer/issues/41)) ([1e541d6](https://github.com/Mouwrice/proguard-core-visualizer/commit/1e541d6e5628d9b2c2ed9df2884c37061da7a456))
+* show whitespace to align the offset numbers ([#38](https://github.com/Mouwrice/proguard-core-visualizer/issues/38)) ([293870e](https://github.com/Mouwrice/proguard-core-visualizer/commit/293870eebc336eb73ab50f827daf5d349ccd075d))
+* switch between showing evaluations and results ([#42](https://github.com/Mouwrice/proguard-core-visualizer/issues/42)) ([04ee6dc](https://github.com/Mouwrice/proguard-core-visualizer/commit/04ee6dc327949bd7fe871d06ed04fbf3bd34ea64))
+* use new format & data classes ([#19](https://github.com/Mouwrice/proguard-core-visualizer/issues/19)) ([8086aa1](https://github.com/Mouwrice/proguard-core-visualizer/commit/8086aa16d3debf7e9eaede5d090e08c2c439aa44))
+* use own serializer files ([#40](https://github.com/Mouwrice/proguard-core-visualizer/issues/40)) ([212a46b](https://github.com/Mouwrice/proguard-core-visualizer/commit/212a46b077955ce1f33e1ace4e3a99e111af90ed))
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.materialkolor:material-kolor to v1.2.0 ([#20](https://github.com/Mouwrice/proguard-core-visualizer/issues/20)) ([8245ae1](https://github.com/Mouwrice/proguard-core-visualizer/commit/8245ae111f40e96f0f9025cd4c98cccaacbd108f))
+
 ## [0.1.1](https://github.com/Mouwrice/proguard-core-visualizer/compare/v0.1.0...v0.1.1) (2023-07-23)
 
 
